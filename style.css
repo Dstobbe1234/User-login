@@ -1,0 +1,26 @@
+html {
+    background:aqua;
+}
+
+body {
+    background:white;
+    width: 400px;
+    padding: 30px;
+    margin: 40px auto;
+    border-radius: 20px;
+}
+
+button {
+    background:aqua;
+    width: 200px;
+    height: 30px;
+}
+
+input {
+    height: 25px
+}
+
+button:hover {
+    cursor: pointer;
+}
+
